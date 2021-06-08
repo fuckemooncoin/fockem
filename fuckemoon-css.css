@@ -666,6 +666,7 @@
 .container-3 {
   max-width: 1300px;
   margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .grid-3 {
@@ -686,9 +687,9 @@
 }
 
 .get-in-touch {
-  padding-top: 40px;
+  padding-top: 100px;
   background-color: #0b0017;
-  padding-bottom: 40px
+  padding-bottom: 100px
 }
 
 .container-4 {
